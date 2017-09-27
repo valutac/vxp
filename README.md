@@ -1,4 +1,4 @@
-# vxp
+# VXP - Valutac Engineering Proposal
 Engineering Proposal of Valutac
 
 VXP stands for Valutac Engineering Proposals. An VXP is a document that details a specific technology decision being made by the Valutac Engineer.
